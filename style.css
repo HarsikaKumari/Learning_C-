@@ -1,0 +1,25 @@
+center{
+  background-color: royalblue;
+}
+#ddd
+ {
+  color: red;
+}
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: red; 
+  padding: 30px;
+  border: 2px solid;
+  margin-top: 7px ;
+  border-radius:60% ;
+  width: 30px;
+  height: 30px;
+} 
+p{
+  font-size: 2rem;
+}
+p{
+  color: red;
+  width: 200px;
+}
